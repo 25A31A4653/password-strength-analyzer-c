@@ -1,0 +1,9 @@
+Input: Abc@1234
+
+Password Score: 5/5
+Strength: Strong
+
+Input: abc123
+
+Password Score: 2/5
+Strength: Weak
